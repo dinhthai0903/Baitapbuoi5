@@ -1,0 +1,9 @@
+.container{
+    background-color:burlywood;
+            min-height: 550px;
+            width: 400px;
+            margin: 0px auto;
+            display: flex;
+            justify-content: center;
+            align-items: cente;
+}
